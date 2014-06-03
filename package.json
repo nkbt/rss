@@ -1,0 +1,34 @@
+{
+  "name": "rss",
+  "description": "RSS caching proxy with pages parsing to get full content.",
+  "main": "app.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nkbt/rss.git"
+  },
+  "keywords": [
+    "rss",
+    "rss proxy",
+    "full text rss",
+    "full content rss"
+  ],
+  "author": {
+    "name": "Nik Butenko",
+    "email": "nik@butenko.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkbt/rss/issues"
+  },
+  "homepage": "https://github.com/nkbt/rss",
+  "dependencies": {
+    "feedparser": "^0.17.0",
+    "glob": "^4.0.2",
+    "iconv-lite": "^0.2.11",
+    "request": "^2.36.0",
+    "underscore": "^1.6.0"
+  }
+}
