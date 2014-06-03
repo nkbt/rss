@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/nkbt/rss",
   "dependencies": {
+    "async": "^0.9.0",
+    "cheerio": "^0.16.0",
     "feedparser": "^0.17.0",
     "glob": "^4.0.2",
     "iconv-lite": "^0.2.11",
