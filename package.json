@@ -25,13 +25,13 @@
   },
   "homepage": "https://github.com/nkbt/rss",
   "dependencies": {
-    "feedparser": "^0.19.2",
-    "glob": "^4.3.2",
+    "feedparser": "^1.1.5",
+    "glob": "^7.1.1",
     "iconv": "^2.1.4",
     "iconv-lite": "^0.4.5",
     "mkdirp": "^0.5.0",
     "request": "^2.51.0",
     "underscore": "^1.7.0",
-    "zombie": "^2.5.1"
+    "zombie": "^5.0.1"
   }
 }
